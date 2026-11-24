@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="face-swap-local" width="840" />
-
 # FaceSwapLocal — Real-Time Face Swap for Photos and Video (One-Command Setup, Prebuilt Release)
 
 <p><strong>FaceSwapLocal — Real-Time Face Swap for Photos and Video (One-Command Setup, Prebuilt Release): Swap faces in photos and video — fully local. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
